@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="login_page" type="Dart" />
+      <mapping pattern="register_page" type="Dart" />
+      <mapping pattern="AppointmentBean" type="ProGuard File" />
+    </extensionMap>
+  </component>
+</application>
