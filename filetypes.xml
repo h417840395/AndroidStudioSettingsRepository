@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping pattern="AppointmentBean" type="ProGuard File" />
       <mapping pattern="login_page" type="Dart" />
       <mapping pattern="register_page" type="Dart" />
-      <mapping pattern="AppointmentBean" type="ProGuard File" />
     </extensionMap>
   </component>
 </application>
